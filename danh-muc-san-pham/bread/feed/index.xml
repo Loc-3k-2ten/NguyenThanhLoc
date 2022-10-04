@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bread &#8211; Nguyễn Thành Lộc</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/bread/feed/" rel="self" type="application/rss+xml" />
+	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 16:24:15 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Walnuts</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:24:15 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1290</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pomegranate</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:17:48 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1286</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
+										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pineapple Oganic</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:16:29 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1284</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim]]></description>
+										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pineapple</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:14:41 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1281</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Peaches</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/peaches/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/peaches/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:12:12 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1280</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
+										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/peaches/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Passion Fruit</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/passion-fruit/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/passion-fruit/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:09:24 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1278</guid>
+
+					<description><![CDATA[Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.]]></description>
+										<content:encoded><![CDATA[Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/passion-fruit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Orange</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:05:41 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1277</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mustard</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/mustard/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/mustard/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:55:54 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1275</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/mustard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lemon</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/lemon/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/lemon/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:52:40 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1270</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/lemon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Grapes</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grapes/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grapes/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:43:25 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1265</guid>
+
+					<description><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles of landfills by using recycled polyester.7.8 ounce fleece sweatshirt made with up to 5 percent polyester created from recycled plastic.]]></description>
+										<content:encoded><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles of landfills by using recycled polyester.7.8 ounce fleece sweatshirt made with up to 5 percent polyester created from recycled plastic.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grapes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

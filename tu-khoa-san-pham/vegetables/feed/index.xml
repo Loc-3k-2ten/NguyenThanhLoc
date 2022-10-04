@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vegetables &#8211; Nguyễn Thành Lộc</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/vegetables/feed/" rel="self" type="application/rss+xml" />
+	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 16:25:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Watermelon</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:25:42 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1291</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Walnuts</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:24:15 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1290</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pomegranate</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:17:48 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1286</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
+										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pineapple</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 16:14:41 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1281</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Onion</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:59:44 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1276</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<table class="group_table" cellspacing="0">
+<tbody>
+<tr>
+<th>Image</th>
+<th>Product Name</th>
+<th>Price</th>
+<th>Qty</th>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/">Watermelon</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>259.00</span></td>
+<td><a class="button product_type_external" href="https://wpbingosite.com/wordpress/kola/shop/onion/#" rel="nofollow" data-quantity="1" data-product_id="2019" data-product_sku="Z3453-1">Buy product</a></td>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/">Spicy chili pepper</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>98.00</span></td>
+<td>
+<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc67391324">Spicy chili pepper quantity</label><input id="quantity_633bc67391324" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3978]" size="4" step="1" type="number" value="0" placeholder="" /></div></td>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables last instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/">Cabbage</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>70.00</span></td>
+<td>
+<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc673926d5">Cabbage quantity</label><input id="quantity_633bc673926d5" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3985]" size="4" step="1" type="number" value="0" placeholder="" /></div></td>
+</tr>
+</tbody>
+</table>]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<table class="group_table" cellspacing="0">
+<tbody>
+<tr>
+<th>Image</th>
+<th>Product Name</th>
+<th>Price</th>
+<th>Qty</th>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/">Watermelon</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>259.00</span></td>
+<td><a class="button product_type_external" href="https://wpbingosite.com/wordpress/kola/shop/onion/#" rel="nofollow" data-quantity="1" data-product_id="2019" data-product_sku="Z3453-1">Buy product</a></td>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/">Spicy chili pepper</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>98.00</span></td>
+<td>
+<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc67391324">Spicy chili pepper quantity</label><input id="quantity_633bc67391324" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3978]" size="4" step="1" type="number" value="0" placeholder="" /></div></td>
+</tr>
+<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables last instock featured shipping-taxable product-type-grouped">
+<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" data-ll-status="loaded" /></a></td>
+<td>
+<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/">Cabbage</a></h3>
+</td>
+<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>70.00</span></td>
+<td>
+<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc673926d5">Cabbage quantity</label><input id="quantity_633bc673926d5" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3985]" size="4" step="1" type="number" value="0" placeholder="" /></div></td>
+</tr>
+</tbody>
+</table>]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cucumis Melo</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumis-melo/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumis-melo/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:33:49 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1264</guid>
+
+					<description><![CDATA[Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac pellentesque lacus. Pellentesque dapibus nunc nec est imperdiet, a malesuada sem rutrum. Sed quam odio, porta a finibus quis, sagittis aliquet leo. Nunc ornare metus urna, eu luctus velit placerat ut. Cras at porttitor lectus. Ut dapibus aliquam nibh, in imperdiet libero tincidunt sit amet. Morbi sodales fermentum nibh nec facilisis. Morbi pharetra varius velit, eget varius libero finibus quis. Quisque auctor varius lectus, lacinia rhoncus velit posuere vel. Cras condimentum tincidunt urna, sed vehicula ipsum dapibus et. Pellentesque pharetra ultrices varius. Sed viverra nec purus ut ornare.]]></description>
+										<content:encoded><![CDATA[Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac pellentesque lacus. Pellentesque dapibus nunc nec est imperdiet, a malesuada sem rutrum. Sed quam odio, porta a finibus quis, sagittis aliquet leo. Nunc ornare metus urna, eu luctus velit placerat ut. Cras at porttitor lectus. Ut dapibus aliquam nibh, in imperdiet libero tincidunt sit amet. Morbi sodales fermentum nibh nec facilisis. Morbi pharetra varius velit, eget varius libero finibus quis. Quisque auctor varius lectus, lacinia rhoncus velit posuere vel. Cras condimentum tincidunt urna, sed vehicula ipsum dapibus et. Pellentesque pharetra ultrices varius. Sed viverra nec purus ut ornare.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumis-melo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cucumber</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumber/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumber/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:31:45 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1263</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
+										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/cucumber/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chili</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/chili/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/chili/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:59:54 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1255</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/chili/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple</title>
+		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/apple/</link>
+					<comments>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/apple/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThanhLoc]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 01:38:59 +0000</pubDate>
+				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1194</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/apple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
