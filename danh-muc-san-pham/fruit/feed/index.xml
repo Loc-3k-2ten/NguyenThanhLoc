@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Fruit &#8211; Nguyễn Thành Lộc</title>
+	<title>Fruit</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/fruit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Tue, 04 Oct 2022 16:22:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
