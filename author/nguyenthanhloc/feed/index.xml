@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>NguyenThanhLoc</title>
+	<title>NguyenThanhLoc -</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/nguyenthanhloc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Rau củ quả sạch &#8220;lối sống khỏe&#8221; ?</title>
 		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/rau-cu-qua-sach/</link>
@@ -29,7 +29,8 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?p=1407</guid>
 
-					<description><![CDATA[1. Rau sạch là gì? Khái niệm rau sạch được khơi lên và chú ý từ khoảng năm 1992, 1993 khi các đơn vị sản xuất rau và các nhà cung cấp rau quá lạm dụng các loại thuốc hóa học nhằm tăng sản lượng, giảm chi phí mà không để ý tới các tác [&#8230;]]]></description>
+					<description><![CDATA[<p>1. Rau sạch là gì? Khái niệm rau sạch được khơi lên và chú ý từ khoảng năm 1992, 1993 khi các đơn vị sản xuất rau và các nhà cung cấp rau quá lạm dụng các loại thuốc hóa học nhằm tăng sản lượng, giảm chi phí mà không để ý tới các tác [&#8230;]</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/rau-cu-qua-sach/">Rau củ quả sạch “lối sống khỏe” ?</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
 										<content:encoded><![CDATA[<header class="eltdf-page-header">
 <div class="eltdf-fixed-wrapper fixed">
 <div id="toolbar">
@@ -101,8 +102,7 @@
 </div>
 </div>
 </div>
-</header>
-]]></content:encoded>
+</header><p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/rau-cu-qua-sach/">Rau củ quả sạch “lối sống khỏe” ?</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/rau-cu-qua-sach/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

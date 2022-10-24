@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Oct 2022 16:52:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Oct 2022 16:28:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>

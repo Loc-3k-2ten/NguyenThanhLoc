@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Vegetables</title>
+	<title>Vegetables -</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/vegetables/feed/" rel="self" type="application/rss+xml" />
 	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Kiwi</title>
 		<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/kiwi-2/</link>
@@ -28,8 +28,10 @@
 		<pubDate>Mon, 17 Oct 2022 16:31:20 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1431</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/kiwi-2/">Kiwi</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/kiwi-2/">Kiwi</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/kiwi-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -45,8 +47,10 @@
 		<pubDate>Mon, 17 Oct 2022 16:29:07 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1430</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -62,8 +66,10 @@
 		<pubDate>Mon, 17 Oct 2022 16:26:04 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1425</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -79,8 +85,10 @@
 		<pubDate>Mon, 17 Oct 2022 16:09:26 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1421</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -96,8 +104,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:25:42 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1291</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -113,8 +123,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:24:15 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1290</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -130,8 +142,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:22:18 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1289</guid>
 
-					<description><![CDATA[Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.]]></description>
-										<content:encoded><![CDATA[Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.]]></content:encoded>
+					<description><![CDATA[<p>Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/spicy-chili-pepper/">Spicy Chili Pepper</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/spicy-chili-pepper/">Spicy Chili Pepper</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/spicy-chili-pepper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -147,8 +161,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:19:17 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1287</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
-										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/potato/">Potato</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/potato/">Potato</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/potato/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -164,8 +180,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:17:48 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1286</guid>
 
-					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
-										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></content:encoded>
+					<description><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/">Pomegranate</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/">Pomegranate</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pomegranate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -181,8 +199,10 @@
 		<pubDate>Tue, 04 Oct 2022 16:16:29 +0000</pubDate>
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1284</guid>
 
-					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim]]></description>
-										<content:encoded><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim]]></content:encoded>
+					<description><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim</p>
+<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
