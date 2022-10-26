@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Juice -</title>
+	<title>Lưu trữ Juice -</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/juice/feed/" rel="self" type="application/rss+xml" />
-	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
+	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/tu-khoa-san-pham/juice/</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Oct 2022 16:40:17 +0000</lastBuildDate>
 	<language>vi</language>
@@ -67,47 +67,10 @@
 </tr>
 </tbody>
 </table>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grape/">grape</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<table class="group_table" cellspacing="0">
-<tbody>
-<tr>
-<th>Image</th>
-<th>Product Name</th>
-<th>Price</th>
-<th>Qty</th>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/">Watermelon</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>259.00</span></td>
-<td><a class="button product_type_external" href="https://wpbingosite.com/wordpress/kola/shop/onion/#" rel="nofollow" data-quantity="1" data-product_id="2019" data-product_sku="Z3453-1">Buy product</a></td>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/">Spicy chili pepper</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>98.00</span></td>
-<td>
-<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc67391324">Spicy chili pepper quantity</label><input id="quantity_633bc67391324" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3978]" size="4" step="1" type="number" value="0" placeholder="" /></div>
-</td>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables last instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/">Cabbage</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>70.00</span></td>
-<td>
-<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc673926d5">Cabbage quantity</label><input id="quantity_633bc673926d5" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3985]" size="4" step="1" type="number" value="0" placeholder="" /></div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grape/">grape</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grape/">grape</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grape/">grape</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/grape/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -124,9 +87,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1430</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/">jackfruit</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/jackfruit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -143,9 +107,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1421</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/">Durian</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/durian/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -162,9 +127,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1291</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/">Watermelon</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/watermelon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -181,9 +147,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1288</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/salad/">Salad</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/salad/">Salad</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/salad/">Salad</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/salad/">Salad</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/salad/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -200,9 +167,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1284</guid>
 
 					<description><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/">Pineapple Oganic</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple-oganic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -219,9 +187,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1281</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/">Pineapple</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/">Pineapple</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/">Pineapple</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/">Pineapple</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/pineapple/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -238,9 +207,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1277</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/">Orange</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/">Orange</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/">Orange</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/">Orange</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/orange/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -295,47 +265,10 @@
 </tr>
 </tbody>
 </table>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/">Onion</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<table class="group_table" cellspacing="0">
-<tbody>
-<tr>
-<th>Image</th>
-<th>Product Name</th>
-<th>Price</th>
-<th>Qty</th>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-18-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/watermelon/">Watermelon</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>259.00</span></td>
-<td><a class="button product_type_external" href="https://wpbingosite.com/wordpress/kola/shop/onion/#" rel="nofollow" data-quantity="1" data-product_id="2019" data-product_sku="Z3453-1">Buy product</a></td>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-22-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/spicy-chili-pepper/">Spicy chili pepper</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>98.00</span></td>
-<td>
-<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc67391324">Spicy chili pepper quantity</label><input id="quantity_633bc67391324" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3978]" size="4" step="1" type="number" value="0" placeholder="" /></div>
-</td>
-</tr>
-<tr id="product-1065" class="post-1065 product type-product status-publish has-post-thumbnail product_cat-beans product_tag-bread product_tag-juice product_tag-vegetables last instock featured shipping-taxable product-type-grouped">
-<td class="product-thumb"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/"><img class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image entered lazyloaded" src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" alt="" width="100" height="100" data-lazy-src="https://wpbingosite.com/wordpress/kola/wp-content/uploads/2018/12/product-23-100x100.jpg" data-ll-status="loaded" /></a></td>
-<td>
-<h3 class="product-title"><a href="https://wpbingosite.com/wordpress/kola/shop/cabbage/">Cabbage</a></h3>
-</td>
-<td class="product-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>70.00</span></td>
-<td>
-<div class="quantity buttons_added"><label class="screen-reader-text" for="quantity_633bc673926d5">Cabbage quantity</label><input id="quantity_633bc673926d5" class="input-text qty text" title="Qty" max="" min="0" name="quantity[3985]" size="4" step="1" type="number" value="0" placeholder="" /></div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/">Onion</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/">Onion</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/">Onion</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/onion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -352,9 +285,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1266</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/green-vegetables/">Green Vegetables</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/green-vegetables/">Green Vegetables</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/green-vegetables/">Green Vegetables</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/green-vegetables/">Green Vegetables</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/green-vegetables/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Fresh -</title>
+	<title>Lưu trữ Fresh -</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/fresh/feed/" rel="self" type="application/rss+xml" />
-	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc</link>
+	<link>https://loc-3k-2ten.github.io/NguyenThanhLoc/tu-khoa-san-pham/fresh/</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Oct 2022 16:52:11 +0000</lastBuildDate>
 	<language>vi</language>
@@ -29,9 +29,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1425</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/">Avocado</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/banana-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -48,9 +49,10 @@
 				<guid isPermaLink="false">https://loc-3k-2ten.github.io/NguyenThanhLoc/?post_type=product&#038;p=1290</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>The post <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> first appeared on <a href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>]]></content:encoded>
+<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/">Walnuts</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="https://loc-3k-2ten.github.io/NguyenThanhLoc"></a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://loc-3k-2ten.github.io/NguyenThanhLoc/san-pham/walnuts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
